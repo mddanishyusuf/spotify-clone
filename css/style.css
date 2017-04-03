@@ -1,12 +1,7 @@
 body{
 	background-color: #333441;
 	margin: 0px;
-
-	font-family: raleway;
-}
-@font-face{
-	font-family: raleway;
-	src: url('../raleway/Raleway-Bold.ttf');
+	font-family: 'Raleway', sans-serif;
 }
 .head-div{
 	position: relative;
@@ -63,6 +58,9 @@ body{
 #main{
 	width: 100%;
 	/*padding: 0px 30px 0px;*/
+}
+.result-text{
+	color: #333441
 }
 .result{
 	width: 80%;
