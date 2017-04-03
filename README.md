@@ -1,6 +1,9 @@
 # spotify-clone
 AngularJS + Spotify = Spotify-Clone
 
+# DEMO
+  https://mddanishyusuf.github.io/spotify-clone/
+
 # Introduction
 spotify-clone is just an web application that is build with angularJS. You can search artist and album with your keywords. 
 
