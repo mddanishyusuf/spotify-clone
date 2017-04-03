@@ -1,7 +1,7 @@
 body{
 	background-color: #333441;
 	margin: 0px;
-	
+
 	font-family: raleway;
 }
 @font-face{
@@ -26,6 +26,7 @@ body{
 	float: left;	
 }
 .by_spotify{
+	color: #fff;
 	width: 50%;
 	float: right;
 	text-align: right;
