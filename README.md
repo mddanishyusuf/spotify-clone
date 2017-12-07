@@ -18,4 +18,4 @@ spotify-clone is just an web application that is build with angularJS. You can s
 
 Thanks
 
-Developed by [Mohd Danish Yusuf](about.me/mddanishyusuf) [ Compucorp Front End Developer Test v4.0 ]
+Developed by [Mohd Danish Yusuf](https://mddanishyusuf.github.io/) [ Compucorp Front End Developer Test v4.0 ]
